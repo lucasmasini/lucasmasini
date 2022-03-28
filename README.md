@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi, I’m Lucas👋🏼 
+  - 🌱 Full stack software developer in progress. 
+  - 👨‍💻 Studying Full stack software developer career at Coder House.
+  - 🤓 Currently working on my personal website and learning as much as I can.
+  
+```js
+const lucas = {
+  keyname: 'Lucas' | 'Masini',
+  code: ['Javascript','HTML','CSS'],
+  tools: ['React','Node','Sass','Bootstrap',],
+  extraTools: ['npm','git']
+};
+```
+
+
+
 
 <!--
 **lucasmasini/lucasmasini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
