@@ -11,8 +11,9 @@ const lucas = {
   extraTools: ['npm','git']
 };
 ```
+------------------------------------------------------
 
-
+You can reach me on my Linkdein: https://www.linkedin.com/in/lucas-masini-10183913a/  or just send me an email 📧
 
 
 <!--
