@@ -13,7 +13,7 @@ const lucas = {
 ```
 ------------------------------------------------------
 
-You can reach me on my Linkdein: https://www.linkedin.com/in/lucas-masini-10183913a/  or just send me an email 📧
+You can reach me on my portfolio: https://portfolio-lucasmasini.vercel.app/spanish or my Linkedin: https://www.linkedin.com/in/lucas-masini-10183913a/
 
 
 <!--
